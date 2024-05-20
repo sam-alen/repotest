@@ -1,0 +1,14 @@
+/*esta es una hoja de estilos css*/
+.main{
+    background-color: blue;
+}
+
+body{
+    color: darkred;
+}
+
+.h1{
+    background-color: tomato;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
